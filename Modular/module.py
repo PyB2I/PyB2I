@@ -9,5 +9,9 @@ def some_function() :
     input("Pulse enter para regresar a la siguiente línea de código desde donde se invocó esta funcion")
     return
 
-# declaro una variable que se podrá utilizar cuando se importe este módulo
+# declaro variables que se podrán utilizar cuando se importe este módulo
 
+COMPANY = 'Farmacia "La curita"'
+ADDRESS = 'Belgrano 150 San Salvador de Jujuy'
+STATE = 'Jujuy'
+COUNTRY = 'Argentina'
